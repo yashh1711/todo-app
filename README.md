@@ -19,3 +19,8 @@ To setup the backend of project locally on your machine
 - run index.js file
 
 ## Frontend setup
+
+To setup the backend of project locally on your machine
+
+- go to todo-fe folder
+- run npm install
